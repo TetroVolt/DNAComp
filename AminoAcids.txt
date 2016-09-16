@@ -1,0 +1,21 @@
+Ile : ATT,ATC,ATA
+Leu : CTT,CTC,CTA,CTG,TTA,TTG
+Val : GTT,GTC,GTA,GTG
+Phe : TTT,TTC
+Met : ATG
+Cys : TGT,TGC
+Ala : GCT,GCC,GCA,GCG
+Gly : GGT, GGC, GGA, GGG
+Pro : CCT, CCC, CCA, CCG
+Thr : ACT, ACC, ACA, ACG
+Ser : TCT, TCC, TCA, TCG, AGT, AGC
+Tyr : TAT, TAC
+Trp : TGG
+Gln :	CAA, CAG
+Asn : AAT, AAC
+His : CAT, CAC
+Glu : GAA, GAG
+Asp : GAT, GAC
+Lys : AAA, AAG
+Arg : CGT, CGC, CGA, CGG, AGA, AGG
+Stop : TAA, TAG, TGA
